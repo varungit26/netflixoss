@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.javabot</groupId>
-  <artifactId>assurance-master</artifactId>
+  <artifactId>javabot-master</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
-  <name>assurance-master</name>
+  <name>Java Bot Master</name>
   <url>http://maven.apache.org</url>
 
   <properties>
